@@ -1,9 +1,9 @@
 {
-  "name": "@MoritzStefaner/prettier-config",
+  "name": "@moritzstefaner/prettier-config",
   "version": "1.0.0",
   "description": "My personal Prettier config",
   "main": "index.json",
-  "repository": "git@github.com:MoritzStefaner/prettier-config.git",
+  "repository": "git@github.com:moritzstefaner/prettier-config.git",
   "author": "Moritz Stefaner",
   "license": "MIT"
 }

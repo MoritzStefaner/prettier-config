@@ -7,7 +7,7 @@
 **Install**:
 
 ```bash
-$ yarn add --dev @MoritzStefaner/prettier-config
+$ yarn add --dev @moritzstefaner/prettier-config
 ```
 
 **Edit `package.json`**:
@@ -15,6 +15,6 @@ $ yarn add --dev @MoritzStefaner/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@MoritzStefaner/prettier-config"
+  "prettier": "@moritzstefaner/prettier-config"
 }
 ```
